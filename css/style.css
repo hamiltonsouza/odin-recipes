@@ -1,0 +1,38 @@
+
+body {
+
+    background-color: black;
+    color: gray;
+    font-family: 'Times New Roman', Times, sans-serif;
+    font-size: 18px;
+    font-weight: normal;
+    margin: 50px;
+    margin-top: 25px;
+
+}
+
+a {
+
+    color: lightgray;
+}
+
+img {
+    
+    height: 300px;
+    width: auto;
+
+}
+
+h1 {
+
+    color: white;
+    font-size: 40px;
+
+}
+
+h2 {
+
+    color: lightgray;
+    font-size: 30px;
+
+}
